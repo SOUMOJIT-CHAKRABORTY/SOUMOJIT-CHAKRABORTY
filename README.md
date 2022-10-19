@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, Docker, Devops tools**
 
-- 💬 Ask me about **javascript , python , deep learning**
+- 💬 Ask me about **javascript , react.js , python , deep learning**
 
 - 📫 How to reach me **soumojit.chakraborty.fiem.cse20@teamfuture.in**
 
