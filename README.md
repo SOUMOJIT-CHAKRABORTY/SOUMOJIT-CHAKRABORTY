@@ -1,6 +1,6 @@
 ![logo](https://github.com/SOUMOJIT-CHAKRABORTY/SOUMOJIT-CHAKRABORTY/blob/main/Black%20and%20White%20Modern%20Vintage%20Pharmacy%20Back%20to%20Business%20Landscape%20Banner.gif)
 
-<h1 align="center">Namaste 🙏, I'm SOUMOJIT CHAKRABORTY</h1>
+<h1 align="center">Namaste 🙏, I'm Soumojit Chakraborty</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **node.js, Docker, Devops tools**
