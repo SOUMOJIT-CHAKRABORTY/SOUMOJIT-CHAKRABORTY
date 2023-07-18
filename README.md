@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumojit-chakraborty&show_icons=true&locale=en&layout=compact" alt="soumojit-chakraborty" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMOJIT-CHAKRABORTY&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojit-chakraborty&" alt="soumojit-chakraborty" /></p>
 
