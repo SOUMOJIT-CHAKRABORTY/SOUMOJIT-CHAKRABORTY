@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, Docker, Devops tools**
 
-- 💬 Ask me about **javascript , react.js , python , deep learning**
+- 💬 Ask me about **typescript , react.js , node.js , web 3.0**
 
 - 📫 How to reach me **soumojit.chk@gmail.com**
 
