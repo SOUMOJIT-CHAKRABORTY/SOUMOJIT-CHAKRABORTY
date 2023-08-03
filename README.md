@@ -24,5 +24,7 @@
 
 ![Soumojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUMOJIT-CHAKRABORTY&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMOJIT-CHAKRABORTY&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojit-chakraborty&" alt="soumojit-chakraborty" /></p>
+<div style="text-align: center;">
+  ![soumojit-chakraborty](https://github-readme-streak-stats.herokuapp.com/?user=soumojit-chakraborty)
+</div>
 
