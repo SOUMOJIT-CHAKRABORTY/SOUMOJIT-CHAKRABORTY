@@ -1,5 +1,3 @@
-![logo](https://github.com/SOUMOJIT-CHAKRABORTY/SOUMOJIT-CHAKRABORTY/blob/main/Black%20and%20White%20Modern%20Vintage%20Pharmacy%20Back%20to%20Business%20Landscape%20Banner.png)
-
 <h1 align="center">Hello!👋, I'm Soumojit Chakraborty</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
