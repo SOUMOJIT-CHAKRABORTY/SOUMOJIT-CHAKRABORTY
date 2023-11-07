@@ -1,9 +1,9 @@
 <h1 align="center">Hello!👋, I'm Soumojit Chakraborty</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **node.js, Docker, Devops tools**
+- 🌱 I’m comforable with **node.js, Docker, Devops tools**
 
-- 💬 Ask me about **typescript , react.js , node.js , web 3.0**
+- 💬 I work with **typescript , react.js , node.js , web 3.0**
 
 - 📫 How to reach me **soumojit.chk@gmail.com**
 
