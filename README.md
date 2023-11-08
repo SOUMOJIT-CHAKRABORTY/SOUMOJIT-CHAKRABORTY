@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **soumojit.chk@gmail.com**
 
-- ⚡ Fun fact **I don't have backpain**
+- ⚡ Open to work as a freelancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
