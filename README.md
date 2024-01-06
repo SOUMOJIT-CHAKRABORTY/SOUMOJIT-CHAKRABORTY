@@ -3,7 +3,7 @@
 
 - 🌱 I’m comforable with **node.js, Docker, Devops tools**
 
-- 💬 I work with **typescript , react.js , node.js , web 3.0**
+- 💬 I work with **typescript , react.js , node.js , cloud**
 
 - 📫 How to reach me **soumojit.chk@gmail.com**
 
