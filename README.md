@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **soumojit.chk@gmail.com**
 
-- ⚡ Open to work as a freelancer**
+- ⚡ Open to work as a freelancer or full-time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
