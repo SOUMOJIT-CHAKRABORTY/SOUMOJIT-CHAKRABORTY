@@ -41,7 +41,7 @@ Open to exploring freelance or full-time opportunities. Let's connect on LinkedI
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=SOUMOJIT-CHAKRABORTY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUMOJIT-CHAKRABORTY&show_icons=true&locale=en&layout=compact&theme=aura&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUMOJIT-CHAKRABORTY&show_icons=true&locale=en&layout=compact&theme=aura&hide=html,ruby" />
 </td>
 </tr> 
 </table>
