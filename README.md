@@ -1,18 +1,18 @@
-<h1 align="center">Hello!👋, I'm Soumojit Chakraborty</h1>
-<h3 align="center">A passionate software developer from India</h3>
+### About Me
 
-- 🌱 I’m comforable with **node.js, Docker, Devops tools**
+- 🌱 Seasoned in **Node.js, Docker, and DevOps tools**
 
-- 💬 I work with **typescript , react.js , node.js , cloud**
+- 💬 Specialized in **TypeScript, React.js, Node.js, and cloud technologies**
 
-- 📫 How to reach me **soumojit.chk@gmail.com**
+- ⚡ Currently assisting companies in accelerating software delivery
 
-- ⚡ Open to work as a freelancer or full-time**
+Open to exploring freelance or full-time opportunities. Let's connect on LinkedIn for professional inquiries.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@soumojitch" target="blank"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@soumojitch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/" height="30" width="40" /></a>
+  <a href="https://twitter.com/@soumojitch" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@soumojitch"></a>
+  <a href="mailto:soumojit.chk@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soumojit.chk@gmail.com"></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
