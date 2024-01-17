@@ -1,12 +1,14 @@
 ### About Me
 
-- 🌱 Seasoned in **Node.js, Docker, and DevOps tools**
+<span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- 🌱 Seasoned in</span> **Node.js, Docker, and DevOps tools**
 
-- 💬 Specialized in **TypeScript, React.js, Node.js, and cloud technologies**
+<span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- 💬 Specialized in</span> **TypeScript, React.js, Node.js, and cloud technologies**
 
-- ⚡ Currently assisting companies in accelerating software delivery
+<span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- ⚡ Currently assisting companies in</span> accelerating software delivery
 
 Open to exploring freelance or full-time opportunities. Let's connect on LinkedIn for professional inquiries.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
