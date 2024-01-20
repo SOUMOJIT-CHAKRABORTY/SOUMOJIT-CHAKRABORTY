@@ -1,6 +1,6 @@
 ### About Me
 
-<span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- 🌱 Seasoned in</span> **Node.js, Docker, and DevOps tools**
+<span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- 🌱 Seasoned in</span> **Typescript, Docker, and DevOps tools**
 
 <span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-style: italic; font-weight: bold;">- 💬 Specialized in</span> **TypeScript, React.js, Node.js, and cloud technologies**
 
