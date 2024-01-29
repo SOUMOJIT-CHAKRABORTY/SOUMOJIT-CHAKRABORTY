@@ -8,7 +8,7 @@
 
 Open to exploring freelance or full-time opportunities. Let's connect on LinkedIn for professional inquiries.
 
-
+[Check out my resume](https://drive.google.com/file/d/1RT7qrMYyzQwa0ASIiqrWibqp8TvMZviO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
